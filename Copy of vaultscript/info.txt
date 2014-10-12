@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"name"		"VaultScript"
+	"version"	"1.0"
+
+	"author_name"	"John [MT]OMalley Dorian (Trent Sterling)"
+	"author_email"	""
+	"author_url"	"http://www.modtacular.com/"
+	
+	"info"		"Brought to you from VaultTek"
+	"hide"		"0"
+}
